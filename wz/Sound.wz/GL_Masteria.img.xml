@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="GL_Masteria.img">
+    <sound name="CrimsonwoodKeep" />
+    <sound name="CrimsonwoodKeepInterior" />
+    <sound name="GrandmastersGauntlet" />
+    <sound name="PartyQuestGL" />
+    <sound name="MBlockbusterE2" />
+    <sound name="Nostalgia" />
+    <sound name="Cerberusian" />
+    <sound name="PhantomForest" />
+    <sound name="Raven" />
+    <sound name="Whisper" />
+    <sound name="Resurrection" />
+    <sound name="CrimsonMountain" />
+    <sound name="toVersal" />
+    <sound name="NLChunt" />
+    <sound name="NLC_boss" />
+    <sound name="NLC_Break" />
+    <sound name="NLCupbeat" />
+    <sound name="NLC_battle" />
+    <sound name="NLCtown" />
+</imgdir>

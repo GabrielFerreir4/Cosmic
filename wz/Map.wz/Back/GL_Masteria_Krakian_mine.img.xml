@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="GL_Masteria_Krakian_mine.img">
+    <imgdir name="back">
+        <canvas name="0" width="995" height="587">
+            <vector name="origin" x="497" y="293" />
+            <int name="z" value="0" />
+            <string name="_hash" value="5f941404db5d9635e1991c5b5dc722b1fc4dd503ddb749a6cbef7c6e926d57f9" />
+        </canvas>
+        <canvas name="1" width="995" height="600">
+            <vector name="origin" x="497" y="300" />
+            <int name="z" value="0" />
+            <string name="_hash" value="e14f14433ab06f5faa1d9b3c9f4111c9bd4d1fa0f51b98b88c6474d44eab0d78" />
+        </canvas>
+        <canvas name="2" width="667" height="707">
+            <vector name="origin" x="333" y="431" />
+            <int name="z" value="0" />
+            <string name="_hash" value="679540ba3e439048ae221c90fff27624e34f9e6c0e2ca6685320b3fcc8ef5964" />
+        </canvas>
+        <canvas name="3" width="882" height="775">
+            <vector name="origin" x="441" y="387" />
+            <int name="z" value="0" />
+            <string name="_hash" value="45069863565369091cf08d4e1c93b7bd1ec6c5b79eeccf303376a2ddf71ace27" />
+        </canvas>
+        <canvas name="4" width="1549" height="736">
+            <vector name="origin" x="744" y="396" />
+            <int name="z" value="0" />
+            <string name="_hash" value="6291e0a60f4888fc50d13d627c2f8ca200b350208ab7b2aa9f05acb97e14c5f5" />
+        </canvas>
+        <canvas name="5" width="1500" height="364">
+            <vector name="origin" x="750" y="182" />
+            <int name="z" value="0" />
+            <string name="_hash" value="19d84507badedb317547bd1ccd138a9d279383419144851196c256326326b181" />
+        </canvas>
+        <canvas name="6" width="562" height="190">
+            <vector name="origin" x="0" y="0" />
+            <int name="z" value="0" />
+            <string name="_hash" value="a346bfc68d27f32866e4fc5936760e5039b2f4b8e7f7dc0244a1ae4b92d4be44" />
+        </canvas>
+    </imgdir>
+</imgdir>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="GL_Masteria_Krakian_temple.img">
+    <imgdir name="back">
+        <canvas name="0" width="995" height="587">
+            <vector name="origin" x="497" y="293" />
+            <int name="z" value="0" />
+            <string name="_hash" value="5460cbc0a67229d82a6cefd1645d8369b58eee477958c3db8c3765f3a4d090e1" />
+        </canvas>
+        <canvas name="1" width="995" height="600">
+            <vector name="origin" x="497" y="300" />
+            <int name="z" value="0" />
+            <string name="_hash" value="7f688c21414d4ac4d325bdfc8d0105fa505d9c137153c677277621a7ff6c3998" />
+        </canvas>
+        <canvas name="2" width="667" height="697">
+            <vector name="origin" x="333" y="348" />
+            <int name="z" value="0" />
+            <string name="_hash" value="7ebc36e83b919f28e5583565dfc96ce0a0ae5e6d20a43d1f799282a27e1c7fce" />
+        </canvas>
+        <canvas name="3" width="882" height="669">
+            <vector name="origin" x="441" y="334" />
+            <int name="z" value="0" />
+            <string name="_hash" value="3ab22779d9da9bb4d87cb8e4eb1b061962342cad0f687bf47b8e950292a9090f" />
+        </canvas>
+        <canvas name="4" width="559" height="744">
+            <vector name="origin" x="279" y="372" />
+            <int name="z" value="0" />
+            <string name="_hash" value="748b48c7ce50e12797c0a1f5612aec4ebe1aa5490d8d6a2294870dade0cbab54" />
+        </canvas>
+    </imgdir>
+</imgdir>

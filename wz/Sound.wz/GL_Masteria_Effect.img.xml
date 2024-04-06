@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<imgdir name="GL_Masteria_Effect.img">
+    <sound name="naric" />
+    <sound name="arcana" />
+    <sound name="afinas" />
+    <sound name="killian" />
+    <sound name="fear" />
+    <sound name="phantom" />
+    <sound name="change" />
+    <sound name="knock" />
+    <sound name="open" />
+</imgdir>
